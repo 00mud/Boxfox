@@ -21,3 +21,8 @@ _a fork of textfox_
 ## Theme
 I haved Minimalist Gruvbox.
 Install- https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser
+
+## Images
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/352e55bc-a2ce-4ec3-9c58-8f367f22328d" />
+<img width="1586" height="931" alt="image" src="https://github.com/user-attachments/assets/c932e3ce-8a69-42a5-86a2-1f948ab7be91" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/510fce1d-e809-4075-85fc-3183c4111bb3" />
