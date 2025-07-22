@@ -13,7 +13,7 @@ _a fork of textfox_
 2. Go to `about:profiles`
 3. Find your profile -- ( _„This is the profile in use and it cannot be deleted.”_ )
 4. Open the profile's root directory
-5. Move the files chrome directory there
+5. Move the chrome directory there
 6. Open sidebery setting and go to styles editor
 7. Open sidebery.css and paste its contents in the styles editor
 8. Restart Firefox
