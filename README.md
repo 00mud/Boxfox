@@ -17,3 +17,7 @@ _a fork of textfox_
 6. Open sidebery setting and go to styles editor
 7. Open sidebery.css and paste its contents in the styles editor
 8. Restart Firefox
+
+## Theme
+I haved Minimalist Gruvbox.
+Install- https://addons.mozilla.org/en-US/firefox/addon/minimalist-gruvbox/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser
