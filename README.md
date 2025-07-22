@@ -1,5 +1,5 @@
 
-_a fork of tetfox_
+_a fork of textfox_
 
 
 ## Prequisites
