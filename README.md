@@ -6,7 +6,13 @@ _a fork of textfox_
 
 - Sidebery (optional)
 
-## Installation
+- Go to `about:config` and make sure these are set to `true`\
+*toolkit.legacyUserProfileCustomizations.stylesheets*\
+*svg.context-properties.content.enabled*\
+*layout.css.has-selector.enabled*
+
+
+# Installation
 
 
 1. Download the files
