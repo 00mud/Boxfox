@@ -15,5 +15,5 @@ _a fork of textfox_
 4. Open the profile's root directory
 5. Move the files chrome directory there
 6. Open sidebery setting and go to styles editor
-7. Open sideberry.css and paste its contents in the styles editor
+7. Open sidebery.css and paste its contents in the styles editor
 8. Restart Firefox
