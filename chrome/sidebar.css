@@ -53,17 +53,6 @@
 /*  */
 #sidebar-panel-header{
     visibility: collapse;
-    /* z-index: -1; */
-}
-
-/* #sidebar-box {
-    border: 0px;
-    width: 10px !important;
-} */
-
-#sidebar{
-    /* border: 0px; */
-    /* width: 300px !important; */
 }
 
 .wrapper{
