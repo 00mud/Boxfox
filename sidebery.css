@@ -1,0 +1,61 @@
+#root.root {--tabs-normal-bg: ;}
+#root.root {--nav-btn-height: 24px;}
+#root.root {--nav-btn-active-shadow: ;}
+#root.root {--nav-delimiter-size: 23px;}
+#root.root {--btn-border-radius: 17px;}
+#root.root {--search-shadow: ;}
+#root.root {--tabs-activated-shadow: ;}
+
+#root.root {--tabs-count-font: 0.6rem sans;}
+#root.root {--nav-btn-border-radius: 1px;}
+#root.root {--nav-btn-width: 29px;}
+#root.root {--nav-btn-len-margin: 2px;}
+#root.root {--general-margin: 0px;}
+#root.root {--general-border-radius: 0px !important;}
+
+#root.root {--nav-btn-margin: 2px;}
+
+#root.root {--tabs-close-btn-margin: 5px;}
+#root.root {--tabs-activated-color-layer-opacity: 0.8;}
+#root.root {--tabs-discarded-favicon-opacity: 0.5;}
+#root.root {--tabs-discarded-title-opacity: 0.35;}
+
+
+#root.root {--tabs-font: 1rem sans-serif;}
+
+
+
+#root.root {--search-height: 35px;}
+#root.root {--search-border-radius: 0px;}
+#root.root {--search-font-size: 0.9rem;}
+#root.root {--search-icon-width: 30px;}
+
+#root.root {--ntb-border-radius: 1px;}
+#root.root {--ntb-btn-height: 35px;}
+#root.root {--tabs-height: 32px;}
+#root.root {--tabs-lvl-opacity: 0.1;}
+#root.root {--tabs-color-layer-opacity: 0.18;}
+#root.root {--tabs-inner-gap: 3px;}
+#root.root {--tabs-border-radius: 2px;}
+
+
+#root.root {--tabs-indent: 15px;}
+#root.root {--tabs-margin: 7px;}
+#root.root {--tabs-pinned-width: 75px;}
+#root.root {--tabs-pinned-height: 75px;}
+
+*{
+    font-family: "verdana" !important;
+}
+
+/* OLD STYLES
+#root.root {--tabs-border-radius: 40px;}
+
+#root.root {--tabs-margin: 10px;}
+
+
+#root.root {--tabs-inner-gap: 40px;}
+#root.root {--tabs-close-btn-margin: 1px;}
+#root.root {--tabs-lvl-opacity: 0.1;}
+#root.root {--toolbarbutton-border-radius: 5px;}
+*/
